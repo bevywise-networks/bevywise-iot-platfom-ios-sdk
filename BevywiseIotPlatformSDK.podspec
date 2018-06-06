@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
   s.author           = { 'Bevywise' => 'support@bevywise.com' }
-  s.source           = { :git => 'https://github.com/bevywise-networks/bevywise-iot-platfom-ios-sdk.git', :tag => "v1.0" }
+  s.source           = { :git => 'https://github.com/bevywise-networks/bevywise-iot-platfom-ios-sdk.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
