@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BevywiseIotPlatformSDK'
-  s.version          = '1.0'
+  s.version          = 'v1.0'
   s.summary          = 'A short description of BevywiseIotPlatformSDK.'
 
 # This description is used to generate tags and improve search results.
