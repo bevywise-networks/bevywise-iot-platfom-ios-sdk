@@ -1,0 +1,16 @@
+PODS:
+  - BevywiseIotPlatformSDK (0.1.0)
+
+DEPENDENCIES:
+  - BevywiseIotPlatformSDK (from `../`)
+
+EXTERNAL SOURCES:
+  BevywiseIotPlatformSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BevywiseIotPlatformSDK: c7328cca97001de397f5c839085402178b5bb379
+
+PODFILE CHECKSUM: ff5e5e42de12aeccdfca6f6c4ddcb2d53e2476a2
+
+COCOAPODS: 1.5.0

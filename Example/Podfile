@@ -1,6 +1,4 @@
 use_frameworks!
 target 'BevywiseIotPlatformSDK_Tests' do
   pod 'BevywiseIotPlatformSDK', :path => '../'
-  
-  
 end

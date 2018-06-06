@@ -1,0 +1,6 @@
+framework module BevywiseIotPlatformSDK {
+  umbrella header "BevywiseIotPlatformSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
